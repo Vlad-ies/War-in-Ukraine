@@ -12,4 +12,4 @@ This repository is created for the course "Data Processing in Python - JEM207". 
 [my solution_02](https://github.com/Vlad-ies/Data-Processing-in-Python---JEM207/blob/main/Untitled4.ipynb)
 
 
-[my solution_03]()
+[my solution_03](https://github.com/Vlad-ies/Data-Processing-in-Python---JEM207/blob/main/Untitled-2.ipynb)
