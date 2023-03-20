@@ -3,5 +3,6 @@ This repository is created for the course "Data Processing in Python - JEM207". 
 
 
 
-# MIDTERM
-[my solution](https://github.com/Vlad-ies/Data-Processing-in-Python---JEM207/blob/main/seminar_solution.ipynb)
+# MIDTERM EXAM
+[my solution_01]()
+[my solution_02]()
