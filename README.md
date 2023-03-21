@@ -4,5 +4,5 @@ This repository is created for the course "Data Processing in Python - JEM207". 
 
 
 # MIDTERM EXAM
-[my solution]()
+[my solution](https://github.com/Vlad-ies/Data-Processing-in-Python---JEM207/blob/main/seminar_solution.ipynb)
 
