@@ -4,5 +4,5 @@ This repository is created for the course "Data Processing in Python - JEM207". 
 
 
 # MIDTERM EXAM
-[my solution_01]()
+[my solution]()
 
