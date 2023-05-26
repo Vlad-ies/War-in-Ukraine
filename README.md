@@ -17,7 +17,7 @@ All information regarding the project: a description of the datasets, a very det
 [russia_losses_equipment.csv](https://github.com/Vlad-ies/Data-Processing-in-Python---JEM207/blob/main/russia_losses_equipment.csv) - Russian losses military equipment.  <br />
 [russia_losses_personnel.csv](https://github.com/Vlad-ies/Data-Processing-in-Python---JEM207/blob/main/russia_losses_personnel.csv) - Casualties of the Russian troops.  <br />
 [aid.csv](https://github.com/Vlad-ies/Data-Processing-in-Python---JEM207/blob/main/aid.csv) - own dataset for Panel data(US and Europe military help). <br />
-Download each file and change the path to 3 datasets in the main file "External Military Aid in Ukraine"(pd.read_csv()).  <br />
+Download each file in the right format and change the path to 3 datasets in the main file "External Military Aid in Ukraine"(pd.read_csv()).  <br />
 ## Framework
 We have panel data which means data from many units (variables), over many points in time. Panel data contains statistical information about the same set of objects in a series of successive periods. We used pooled regression, the fixed effects model, and the random effects model. A balanced panel is used (there is no missing data). The appropriate tests were used as well.
 ## Contribution
