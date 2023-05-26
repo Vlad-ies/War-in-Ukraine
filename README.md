@@ -21,10 +21,10 @@ Download each file and change the path to 3 datasets in the main file "External 
 ## Framework
 We have panel data which means data from many units (variables), over many points in time. Panel data contains statistical information about the same set of objects in a series of successive periods. We used pooled regression, the fixed effects model, and the random effects model. A balanced panel is used (there is no missing data). The appropriate tests were used as well.
 ## Contribution
-If you wish to make a contribution, kindly adhere to the following instructions:
+If you wish to contribute, kindly adhere to the following instructions:
 1. Begin by forking the repository.
 2. Generate a new branch dedicated to your modifications.
 3. Implement the changes and commit them to your branch.
 4. Finally, submit a pull request to the development branch.
-## License, requirements and .gitignore
-
+## License, requirements, and .gitignore
+The license is used: "GNU General Public License v3.0" also it was added requirements and .gitignore.
