@@ -12,10 +12,19 @@ Ukraine is rich in natural resources such as coal, iron ore, manganese, nickel a
 Therefore, the territory is a very important economic issue during the war that is now taking place in Ukraine. That's why this work was proposed to understand if foreign military aid helps reclaim the territory back or not.  <br />
 This project is using panel data and it was shown some expected differences between the military aid by the US and 9 countries of NATO.  <br />
 All information regarding the project: a description of the datasets, a very detailed explanation of the results we got, a step-by-step algorithm of all our actions, and finally conclusions are in the file [External Military Aid in Ukraine](https://github.com/Vlad-ies/Data-Processing-in-Python---JEM207/blob/main/External%20Military%20Aid%20in%20Ukraine.ipynb).   <br />
-## Description of the files
+## Description of the files and how to use the project
+[External Military Aid in Ukraine](https://github.com/Vlad-ies/Data-Processing-in-Python---JEM207/blob/main/External%20Military%20Aid%20in%20Ukraine.ipynb) - main file with all the information. <br />
 [russia_losses_equipment.csv](https://github.com/Vlad-ies/Data-Processing-in-Python---JEM207/blob/main/russia_losses_equipment.csv) - Russian losses military equipment.  <br />
 [russia_losses_personnel.csv](https://github.com/Vlad-ies/Data-Processing-in-Python---JEM207/blob/main/russia_losses_personnel.csv) - Casualties of the Russian troops.  <br />
 [aid.csv](https://github.com/Vlad-ies/Data-Processing-in-Python---JEM207/blob/main/aid.csv) - own dataset for Panel data(US and Europe military help). <br />
+Download each file and change the path to 3 datasets in the main file "External Military Aid in Ukraine".  <br />
 ## Framework
 We have panel data which means data from many units (variables), over many points in time. Panel data contains statistical information about the same set of objects in a series of successive periods. We used pooled regression, the fixed effects model, and the random effects model. A balanced panel is used (there is no missing data). The appropriate tests were used as well.
+## Contribution
+If you wish to make a contribution, kindly adhere to the following instructions:
+1. Begin by forking the repository.
+2. Generate a new branch dedicated to your modifications.
+3. Implement the changes and commit them to your branch.
+4. Finally, submit a pull request to the development branch.
+## License, requirements and .gitignore
 
