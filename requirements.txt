@@ -4,4 +4,4 @@ pandas==2.0.1
 numpy==1.24.3
 linearmodels==5.0
 statsmodels==0.14.0
-scikit-learn==1.2.2
+plotly==5.14.1
