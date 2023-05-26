@@ -1,6 +1,7 @@
 # Data-Processing-in-Python---JEM207
 This repository is created for the course "Data Processing in Python - JEM207". Summer semester 2023
 # External Military Aid in Ukraine
+## Project Description
 The main purpose of this project is to find a correlation between external military aid and liberated territories and try to predict when the war will be over if there is a correlation. So, we are trying to answer two questions: Do the military aid from the US and the 9 countries of NATO help Ukraine to liberate Ukrainian territories? Is there a difference in military aid between these countries? <br />
 The answers to these questions are estimated in the file [External Military Aid in Ukraine](https://github.com/Vlad-ies/Data-Processing-in-Python---JEM207/blob/main/External%20Military%20Aid%20in%20Ukraine.ipynb) <br />
 Our project consists of two parts:
@@ -11,3 +12,5 @@ Ukraine is rich in natural resources such as coal, iron ore, manganese, nickel a
 Therefore, the territory is a very important economic issue during the war that is now taking place in Ukraine. That's why this work was proposed to understand if foreign military aid helps reclaim the territory back or not.  <br />
 This project is using panel data and it was shown some expected differences between the military aid by the US and 9 countries of NATO.  <br />
 All information regarding the project: a description of the datasets, a very detailed explanation of the results we got, a step-by-step algorithm of all our actions, and finally conclusions are in the file [External Military Aid in Ukraine](https://github.com/Vlad-ies/Data-Processing-in-Python---JEM207/blob/main/External%20Military%20Aid%20in%20Ukraine.ipynb).   <br />
+## Description of the files
+
