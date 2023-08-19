@@ -1,5 +1,3 @@
-# Data-Processing-in-Python---JEM207
-This repository is created for the course "Data Processing in Python - JEM207". Summer semester 2023
 # External Military Aid in Ukraine
 ## Project Description
 The main purpose of this project is to find a correlation between external military aid and liberated territories and try to predict when the war will be over if there is a correlation. So, we are trying to answer two questions: Do the military aid from the US and the 9 countries of NATO help Ukraine to liberate Ukrainian territories? Is there a difference in military aid between these countries? <br />
